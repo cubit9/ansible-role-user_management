@@ -10,8 +10,8 @@ galaxy_info:
   platforms:
     - name: Ubuntu
       versions:
-        - Bionic Beaver
-        - Focal Fossa
+        - Bionic
+        - Focal
     - name: Debian
       versions:
         - Buster
