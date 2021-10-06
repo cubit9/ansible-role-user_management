@@ -10,8 +10,8 @@ galaxy_info:
   platforms:
     - name: Ubuntu
       versions:
-        - 20.04
-        - 18.04
+        - Bionic Beaver
+        - Focal Fossa
     - name: Debian
       versions:
         - Buster
