@@ -14,8 +14,8 @@ galaxy_info:
         - 18.04
     - name: Debian
       versions:
-        - 10
-        - 11
+        - Buster
+        - Bullseye
 
   galaxy_tags:
     - system
