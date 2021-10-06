@@ -17,7 +17,7 @@ galaxy_info:
         - 10
         - 11
 
-  galaxy_tags: []
+  galaxy_tags:
     - system
     - users
     - ssh
